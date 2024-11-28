@@ -1,8 +1,9 @@
+
 # 100 Days 100 Models
 
 A repository featuring **100 machine learning models**, each trained on unique datasets using different algorithms. Learn and explore diverse ML techniques through practical examples.
 
-Explore individual projects through the Google collab.
+Explore individual projects through Google Colab.
 
 ---
 
@@ -41,15 +42,17 @@ Each project file follows the format:
 
 5. Open a pull request.
 
-
+---
 
 ## 📜 License
 
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
+---
 
 To clone this repository to your local machine, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/100-days-100-models.git
----
+git clone https://github.com/Shriharsh-Deshmukh/100-Days-100-Models.git
+```
+
