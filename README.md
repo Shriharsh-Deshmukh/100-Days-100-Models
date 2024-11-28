@@ -1,7 +1,6 @@
 
 # 100 Days 100 Models
-
-A repository featuring **100 machine learning models**, each trained on unique datasets using different algorithms. Learn and explore diverse ML techniques through practical examples.
+100 Days 100 Models is a curated collection of 100 machine learning projects, each demonstrating the training and evaluation of models on diverse datasets. This repository is designed to showcase a wide range of machine learning algorithms, datasets, and techniques, providing practical examples for learners and practitioners alike.
 
 Explore individual projects through Google Colab.
 
