@@ -7,7 +7,7 @@ You can explore individual projects interactively through Google Colab.
 
 ---
 
-## 📂 File Naming Convention
+## File Naming Convention
 
 Each project file follows the format:  
 `(Pr-1)Delaney_Lr&Rf.ipynb`  
@@ -16,7 +16,7 @@ Each project file follows the format:
 - **Dataset**: `Delaney_solubility_with_descriptors.csv`  
 - **Models**: Linear Regression (`Lr`) and Random Forest (`Rf`)
 
-This naming convention ensures clarity and consistency across all projects in the repository.
+
 
 ---
 
@@ -49,13 +49,13 @@ Your contributions help make this project better for everyone. Thank you!
 
 ---
 
-## 📜 License
+## License
 
 This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🔧 Cloning the Repository
+## Cloning the Repository
 
 To clone this repository to your local machine, use the following command:
 
