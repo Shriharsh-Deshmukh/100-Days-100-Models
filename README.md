@@ -2,45 +2,54 @@
 
 A repository featuring **100 machine learning models**, each trained on unique datasets using different algorithms. Learn and explore diverse ML techniques through practical examples.
 
+Explore individual projects through the Google collab.
+
 ---
 
 ## 📂 File Naming Convention
 
 Each project file follows the format:  
-**`(Pr-X)Dataset_Model.ipynb`**
-
-- **`Pr-X`**: Project number (e.g., `Pr-1` for Project 1).  
-- **`Dataset`**: Dataset used (e.g., `Delaney` for `Delaney_solubility_with_descriptors.csv`).  
-- **`Model`**: Models trained, abbreviated (e.g., `Lr&Rf` for Linear Regression and Random Forest).  
-
-**Example**:  
 `(Pr-1)Delaney_Lr&Rf.ipynb`  
-- Project: 1  
+- Project Record No.: 1  
 - Dataset: `Delaney_solubility_with_descriptors.csv`  
 - Models: Linear Regression (`Lr`) and Random Forest (`Rf`).
 
 ---
 
-## 🚀 Getting Started
+## Contributing
 
-Clone the repository:
-```bash
-git clone https://github.com/your-username/100-days-100-models.git
-cd 100-days-100-models
-```
+🎉 Contributions are welcome! If you'd like to add new models, improve existing ones, or provide additional documentation:
 
-Explore individual projects through the Google collab.
+1. Fork the repository.
+2. Create your feature branch:
 
----
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
 
-## 🤝 Contributing
+3. Commit your changes:
 
-Contributions are welcome! Fork the repository, make changes, and submit a pull request.
+   ```bash
+   git commit -m "Add your message here"
+   ```
 
----
+4. Push to the branch:
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+5. Open a pull request.
+
+
 
 ## 📜 License
 
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 
+To clone this repository to your local machine, use the following commands:
+
+```bash
+git clone https://github.com/your-username/100-days-100-models.git
+---
