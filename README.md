@@ -72,13 +72,12 @@ After cloning, you can navigate to individual project files and start exploring 
 - **Algorithms:** Linear Regression & Random Forest
 
 - **Project Record:** 2
-- **Dataset:** delaney_solubility_with_descriptors.csv
-- **Algorithms:** Linear Regression & Random Forest
+- **Dataset:** olympic_teams.csv
+- **Algorithms:** Linear Regression
 
 - **Project Record:** 3
-- **Dataset:** delaney_solubility_with_descriptors.csv
-- **Algorithms:** Linear Regression & Random Forest
-
+- **Dataset:** 
+- **Algorithms:** Neural Network Engineering (Ai)
 - - **Project Record:** 4
-- **Dataset:** delaney_solubility_with_descriptors.csv
-- **Algorithms:** Linear Regression & Random Forest
+- **Dataset:** iris.csv
+- **Algorithms:** Linear Discriminant Analysis and Quadratic Discriminant Analysis
