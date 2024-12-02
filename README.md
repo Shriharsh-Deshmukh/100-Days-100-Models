@@ -13,7 +13,7 @@ Each project file follows the format:
 
 - **Project Record No.**: 1  
 - **Dataset**: `Delaney_solubility_with_descriptors.csv`  
-- **Models**: Linear Regression (`Lr`) and Random Forest (`Rf`)
+- **Algorithms**: Linear Regression (`Lr`) and Random Forest (`Rf`)
 
 
 
@@ -67,5 +67,18 @@ After cloning, you can navigate to individual project files and start exploring 
 ---
 
 ### Index:
-1. 
-2.
+- **Project Record:** 1
+- **Dataset:** delaney_solubility_with_descriptors.csv
+- **Algorithms:** Linear Regression & Random Forest
+
+- **Project Record:** 2
+- **Dataset:** delaney_solubility_with_descriptors.csv
+- **Algorithms:** Linear Regression & Random Forest
+
+- **Project Record:** 3
+- **Dataset:** delaney_solubility_with_descriptors.csv
+- **Algorithms:** Linear Regression & Random Forest
+
+- - **Project Record:** 4
+- **Dataset:** delaney_solubility_with_descriptors.csv
+- **Algorithms:** Linear Regression & Random Forest
