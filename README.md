@@ -82,3 +82,7 @@ After cloning, you can navigate to individual project files and start exploring 
 ### **Project Record:** 4
 - **Dataset:** iris.csv
 - **Algorithms:** Linear Discriminant Analysis and Quadratic Discriminant Analysis
+
+### **Project Record:** 5
+- **Dataset:** synthetic (generated)
+- **Algorithms:** Kernel Ridge Regression
