@@ -90,3 +90,8 @@ After cloning, you can navigate to individual project files and start exploring 
 ### **Project Record:** 6
 - **Dataset:** iris.csv
 - **Algorithms:** Support Vector Machines (SVM)
+
+### **Project Record:** 7
+- **Dataset:** diabetes.csv
+- **Algorithms:** Stochastic Gradient Descent (SGD)
+- 
