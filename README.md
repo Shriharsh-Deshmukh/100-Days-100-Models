@@ -67,34 +67,34 @@ After cloning, you can navigate to individual project files and start exploring 
 ---
 
 # Index:
-### **Project Record:** 1
+### **Project Record:** 1 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_1)Delaney_Lr_%26_Rf_.ipynb)
 - **Dataset:** delaney_solubility_with_descriptors.csv
 - **Algorithms:** Linear Regression & Random Forest
 
-### **Project Record:** 2
+### **Project Record:** 2 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_2)Olympic_Lr.ipynb)
 - **Dataset:** olympic_teams.csv
 - **Algorithms:** Linear Regression
 
-### **Project Record:** 3
+### **Project Record:** 3 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_3)patient_ai_nn.ipynb)
 - **Dataset:** patients_data.csv
 - **Algorithms:** Neural Network Engineering (Ai)
 
-### **Project Record:** 4
+### **Project Record:** 4 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_4)iris_LDA_%26_QDA_.ipynb)
 - **Dataset:** iris.csv
 - **Algorithms:** Linear Discriminant Analysis and Quadratic Discriminant Analysis
 
-### **Project Record:** 5
+### **Project Record:** 5 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_5)_synthetic_KRR_.ipynb)
 - **Dataset:** synthetic (generated)
 - **Algorithms:** Kernel Ridge Regression
 
-### **Project Record:** 6
+### **Project Record:** 6 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_6)iris_SVM_.ipynb)
 - **Dataset:** iris.csv
 - **Algorithms:** Support Vector Machines (SVM)
 
-### **Project Record:** 7
+### **Project Record:** 7 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_7)diabetes_SGD.ipynb)
 - **Dataset:** diabetes.csv
 - **Algorithms:** Stochastic Gradient Descent (SGD)
 
-### **Project Record:** 8
+### **Project Record:** 8 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_8)iris_KNN.ipynb)
 - **Dataset:** iris.csv
 - **Algorithms:** K-Nearest Neighbors (KNN)
