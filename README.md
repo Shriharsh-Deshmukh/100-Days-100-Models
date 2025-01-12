@@ -95,3 +95,6 @@ After cloning, you can navigate to individual project files and start exploring 
 - **Dataset:** diabetes.csv
 - **Algorithms:** Stochastic Gradient Descent (SGD)
 
+### **Project Record:** 8
+- **Dataset:** iris.csv
+- **Algorithms:** K-Nearest Neighbors (KNN)
