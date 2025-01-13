@@ -98,3 +98,7 @@ After cloning, you can navigate to individual project files and start exploring 
 ### **Project Record:** 8 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_8)iris_KNN.ipynb)
 - **Dataset:** iris.csv
 - **Algorithms:** K-Nearest Neighbors (KNN)
+
+### **Project Record:** 9 [[Link]](https://github.com/Shriharsh-Deshmukh/100-Days-100-Models/blob/main/(Pr_9)california_housing_GP.ipynb)
+- **Dataset:** california_housing.csv
+- **Algorithms:** Gaussian Processes (GP)
